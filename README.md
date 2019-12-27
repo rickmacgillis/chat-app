@@ -4,4 +4,4 @@ This repository contains a very basic implementation of a chat system. Please no
 
 This project uses Node.js, Express.js, the Mustache template engine, and Socket.io for WebSocket support.
 
-To keep this application simple, it doesn't use a database. Instead, it uses a simple array to keep track of its data.
+To keep this application simple, it doesn't use a database. Instead, it uses a simple array to keep track of its data. 
